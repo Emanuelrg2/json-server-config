@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "JoyStick Dualsense",
+      "preco": 400
+    },
+    {
+      "nome": "Poly station 5",
+      "preco": 4200,
+      "id": 2
+    },
+    {
+      "nome": "camisa do Vasco",
+      "preco": 350,
+      "id": 3
+    },
+    {
+      "nome": "Tenis Puma",
+      "preco": 500,
+      "id": 4
+    },
+    {
+      "nome": "Socio torcedor Vasco",
+      "preco": 230,
+      "id": 5
+    },
+    {
+      "nome": "Iphone 15",
+      "preco": 13000,
+      "id": 6
+    }
+  ]
+}
